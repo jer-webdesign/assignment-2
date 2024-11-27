@@ -298,10 +298,11 @@ body.light-mode #dark-icon {
   /* Image */
   #graphics_image {
     width: 100%; /* Make the image responsive */
-    max-width: 400px; /* Set max width for the image */
+    max-width: 300px; /* Set max width for the image */
     height: auto;
     margin: 0 auto; /* Center the image */
   }
+
 
   /* Description */
   figcaption {
